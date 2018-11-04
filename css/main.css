@@ -64,7 +64,7 @@ hr {
 
 body {
   background: #727272;
-  background-image: url(https://res.cloudinary.com/sites-by-andrew/image/upload/v1541008799/double%20S/bg.jpg);
+  background-image: url("/dist/img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
