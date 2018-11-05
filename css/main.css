@@ -238,11 +238,7 @@ ul {
   .apply input {
     margin: 0 auto 5px auto; }
   .body {
-<<<<<<< HEAD
     background-color: unset; }
-=======
-    
->>>>>>> 88e030b38d63e40003b709691de5cd0b09e1a82e
   .gallery-grid {
     display: grid;
     grid-template-columns: 1fr;
