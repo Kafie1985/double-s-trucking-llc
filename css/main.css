@@ -250,10 +250,13 @@ ul {
   .modal-content {
     margin: auto;
     display: block;
-    width: 100%;
-    max-width: 95%; }
+    width: 99%;
+    max-width: 95%;
+    background-color: rgba(226, 239, 250, 0.5);
+    height: 100%; }
     .modal-content img {
-      width: 95%; }
+      width: 95%;
+      margin: 50% auto; }
   input {
     display: block; }
   .main {
