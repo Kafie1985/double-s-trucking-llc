@@ -64,7 +64,7 @@ hr {
 
 body {
   background: #727272;
-  background-image: url("../img/bg-min.jpg");
+  background-image: url("../img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -74,13 +74,10 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding: 1em; }
   body h2 h3 {
-    font-family: "Times New Roman",
- Times,
- serif;
+    font-family: "Times New Roman", Times, serif;
     font-weight: 300; }
   body p {
-    font-family: "serif,Times New Roman",
- Times; }
+    font-family: "serif,Times New Roman", Times; }
 
 .container {
   max-width: 100%;
