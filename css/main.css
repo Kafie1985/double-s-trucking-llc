@@ -235,7 +235,8 @@ ul {
   .apply input {
     margin: 0 auto 5px auto; }
   .body {
-    background-color: unset; }
+    background-position: center;
+    background-attachment: scroll; }
   .gallery-grid {
     display: grid;
     grid-template-columns: 1fr;
